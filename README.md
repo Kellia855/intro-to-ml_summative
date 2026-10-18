@@ -49,18 +49,11 @@ Main findings:
 
 ## Repository contents
 
-The layout below is a suggestion. Adjust the paths to match your repository.
-
 ```
 .
 ├── README.md
 ├── requirements.txt
-├── notebooks/
-│   └── copd_notebook.ipynb        
-├── report/
-│   └── COPD_Report.pdf            
-├── results/                       
-    └── plots/                       
+├── copd_notebook.ipynb                              
 ```
 
 Large files (the raw BRFSS file, the cleaned Parquet file and the saved models) are **not**
